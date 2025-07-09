@@ -258,4 +258,12 @@ npm run deploy
 
 **Last Updated**: July 2025  
 **Version**: 1.0.0  
-**Maintainer**: Paradise Nursery Development Team
+**Maintainer**: Hesham Dan
+
+## 📧 Contact Information
+
+**Developer**: Hesham Dan  
+📧 Email: [2014@gmail.com](mailto:2014@gmail.com)  
+📱 Phone: +49 15773127109  
+📍 Location: Kassel, Germany  
+🐱 GitHub: [Heshamdan87](https://github.com/Heshamdan87)

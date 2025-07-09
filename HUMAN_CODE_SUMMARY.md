@@ -54,4 +54,12 @@
 
 *This marks the completion of transforming the Paradise Nursery codebase into a more human, personal, and engaging project.*
 
+## 📧 Contact Information
+
+**Developer**: Hesham Dan  
+📧 Email: [2014@gmail.com](mailto:2014@gmail.com)  
+📱 Phone: +49 15773127109  
+📍 Location: Kassel, Germany  
+🐱 GitHub: [Heshamdan87](https://github.com/Heshamdan87)
+
 **Built with ❤️ by Hesham Dan**

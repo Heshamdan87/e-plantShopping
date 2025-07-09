@@ -4,7 +4,12 @@
   "version": "1.0.0",
   "type": "module",
   "description": "A beautiful and responsive React e-commerce application for plant shopping with Redux state management",
-  "author": "Hesham Dan <heshamdan87@gmail.com>",
+  "author": {
+    "name": "Hesham Dan",
+    "email": "2014@gmail.com",
+    "phone": "+49 15773127109",
+    "location": "Kassel, Germany"
+  },
   "license": "Apache-2.0",
   "keywords": ["react", "redux", "e-commerce", "plants", "nursery", "shopping-cart", "responsive"],
   "repository": {

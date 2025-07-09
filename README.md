@@ -167,7 +167,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out through the GitHub repository issues.
+For any questions or feedback, please reach out:
+
+**Hesham Dan**  
+📧 Email: [2014@gmail.com](mailto:2014@gmail.com)  
+📱 Phone: +49 15773127109  
+📍 Location: Kassel, Germany  
+🐱 GitHub: [Heshamdan87](https://github.com/Heshamdan87)
 
 ---
 
