@@ -1,13 +1,25 @@
+/**
+ * Redux Store Configuration
+ * 
+ * This file sets up the global Redux store for the Paradise Nursery Shopping Application.
+ * The store manages all application state including the shopping cart items.
+ */
+
 import { configureStore } from '@reduxjs/toolkit';
 import cartReducer from './CartSlice';
 
-// Create a Redux store using configureStore from Redux Toolkit
+/**
+ * Create and configure the Redux store
+ * 
+ * The store is configured with:
+ * - cart: Manages shopping cart state (items, quantities, etc.)
+ * - Additional reducers can be added here as the application grows
+ */
 const store = configureStore({
-    // Define the root reducer object
     reducer: {
-        // 'cart' is the name of the slice in the store, and it's managed by cartReducer
-        cart: cartReducer,
+        cart: cartReducer, // Shopping cart state management
     },
 });
 
-export default store; // Export the store for use in the app (e.g., in <Provider store={store}>)
+// Export the store for use with the Provider component
+export default store;
