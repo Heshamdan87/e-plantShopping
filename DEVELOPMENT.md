@@ -258,11 +258,11 @@ npm run deploy
 
 **Last Updated**: July 2025  
 **Version**: 1.0.0  
-**Maintainer**: Hesham Dan
+**Maintainer**: Hesham Al dandan
 
 ## 📧 Contact Information
 
-**Developer**: Hesham Dan  
+**Developer**: Hesham Al dandan  
 📧 Email: [Heshamdan2014@gmail.com](mailto:Heshamdan2014@gmail.com)  
 📱 Phone: +49 15773127109  
 📍 Location: Kassel, Germany  

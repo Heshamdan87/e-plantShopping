@@ -45,7 +45,7 @@ function AboutUs() {
         <div className="contact-details">
           <div className="contact-item">
             <span className="contact-icon">👤</span>
-            <span className="contact-text">Hesham Dan</span>
+            <span className="contact-text">Hesham Al dandan</span>
           </div>
           <div className="contact-item">
             <span className="contact-icon">📧</span>

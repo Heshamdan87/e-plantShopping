@@ -1,6 +1,6 @@
 # 🌱 Paradise Nursery - Where Green Meets Serenity
 
-> *A passion project by Hesham Dan - bringing the joy of plants to everyone's home*
+> *A passion project by Hesham Al dandan - bringing the joy of plants to everyone's home*
 
 Welcome to Paradise Nursery! This isn't just another e-commerce website - it's a labor of love created by someone who truly believes that plants have the power to transform our lives and spaces.
 
@@ -169,7 +169,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For any questions or feedback, please reach out:
 
-**Hesham Dan**  
+**Hesham Al dandan**  
 📧 Email: [Heshamdan2014@gmail.com](mailto:Heshamdan2014@gmail.com)  
 📱 Phone: +49 15773127109  
 📍 Location: Kassel, Germany  

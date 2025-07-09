@@ -165,7 +165,7 @@ function ProductList({ onHomeClick }) {
                         <h3>🌱 Get in Touch with Paradise Nursery</h3>
                         <div className="footer-contact-info">
                             <div className="footer-contact-item">
-                                <span>👤 Hesham Dan</span>
+                                <span>👤 Hesham Al dandan</span>
                             </div>
                             <div className="footer-contact-item">
                                 <span>📧 Heshamdan2014@gmail.com</span>

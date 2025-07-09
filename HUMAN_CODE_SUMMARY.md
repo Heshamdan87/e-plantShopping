@@ -56,10 +56,10 @@
 
 ## 📧 Contact Information
 
-**Developer**: Hesham Dan  
+**Developer**: Hesham Al dandan  
 📧 Email: [Heshamdan2014@gmail.com](mailto:Heshamdan2014@gmail.com)  
 📱 Phone: +49 15773127109  
 📍 Location: Kassel, Germany  
 🐱 GitHub: [Heshamdan87](https://github.com/Heshamdan87)
 
-**Built with ❤️ by Hesham Dan**
+**Built with ❤️ by Hesham Al dandan**
