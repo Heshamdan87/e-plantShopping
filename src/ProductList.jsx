@@ -159,6 +159,28 @@ function ProductList({ onHomeClick }) {
                             </div>
                         </div>
                     ))}
+                    
+                    {/* Contact Footer Section */}
+                    <div className="contact-footer">
+                        <h3>🌱 Get in Touch with Paradise Nursery</h3>
+                        <div className="footer-contact-info">
+                            <div className="footer-contact-item">
+                                <span>👤 Hesham Dan</span>
+                            </div>
+                            <div className="footer-contact-item">
+                                <span>📧 Heshamdan2014@gmail.com</span>
+                            </div>
+                            <div className="footer-contact-item">
+                                <span>📱 +49 15773127109</span>
+                            </div>
+                            <div className="footer-contact-item">
+                                <span>📍 Kassel, Germany</span>
+                            </div>
+                        </div>
+                        <p className="footer-message">
+                            Questions about our plants? Need gardening advice? We&apos;re here to help you grow your green paradise! 🌿
+                        </p>
+                    </div>
                 </div>
             ) : (
                 <CartItem onContinueShopping={handleContinueShopping} />

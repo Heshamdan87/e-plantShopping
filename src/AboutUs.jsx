@@ -38,6 +38,32 @@ function AboutUs() {
         Join us in our mission to create a greener, healthier world. Visit Paradise 
         Nursery today and experience the beauty of nature right at your doorstep.
       </p>
+
+      {/* Contact Information Section */}
+      <div className="contact-section">
+        <h3 className="contact-heading">📧 Get in Touch</h3>
+        <div className="contact-details">
+          <div className="contact-item">
+            <span className="contact-icon">👤</span>
+            <span className="contact-text">Hesham Dan</span>
+          </div>
+          <div className="contact-item">
+            <span className="contact-icon">📧</span>
+            <span className="contact-text">Heshamdan2014@gmail.com</span>
+          </div>
+          <div className="contact-item">
+            <span className="contact-icon">📱</span>
+            <span className="contact-text">+49 15773127109</span>
+          </div>
+          <div className="contact-item">
+            <span className="contact-icon">📍</span>
+            <span className="contact-text">Kassel, Germany</span>
+          </div>
+        </div>
+        <p className="contact-message">
+          Have questions about our plants? Need gardening advice? We&apos;d love to hear from you!
+        </p>
+      </div>
     </div>
   );
 }
